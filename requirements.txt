@@ -1,7 +1,9 @@
 textblob
 nltk
-pyplot
 scipy
 scikit-learn
 spacy
 bs4
+jupyter
+ipython
+matplotlib
